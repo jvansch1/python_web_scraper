@@ -1,3 +1,5 @@
+## This is just an example of how spiders work
+
 from base_spider import BaseSpider
 
 class QuotesSpider(BaseSpider):
